@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @saidkhail
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-saidkhail/saidkhail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <a href="https://app.daily.dev/SK_9"><img src="https://api.daily.dev/devcards/a6694f2ad00c4ab5a5d722cdf73e7580.png?r=s7v" width="400" alt="Fourth-Raikage's Dev Card"/></a>
+
+
