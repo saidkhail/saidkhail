@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on anyone, why not? we can all boast each others knowledge 
 - 📫 How to reach me in instagram (saidkhail)
 
-<a href="https://app.daily.dev/SK_9"><img src= "https://github.com/saidkhail/saidkhail/edit/main/devcard.svg" width="200" alt="SK_9"/><a>
-
+<a href="https://app.daily.dev/SK_9"><img src="https://api.daily.dev/devcards/a6694f2ad00c4ab5a5d722cdf73e7580.png?r=0a6" width="200" alt="Fourth-Raikage's Dev Card"/></a>
 <!---
 
 saidkhail/saidkhail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
