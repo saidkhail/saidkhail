@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anyone, why not? we can all boast each others knowledge 
 - 📫 How to reach me in instagram (saidkhail)
 
-<a href ="https://app.daily.dev/SK_9"><img src= "https://github.com/saidkhail/saidkhail/edit/main/devcard.svg" width="200" alt="SK_9/><a>
+<a href="https://app.daily.dev/SK_9"><img src= "https://github.com/saidkhail/saidkhail/edit/main/devcard.svg" width="200" alt="SK_9"/><a>
 
 <!---
 
